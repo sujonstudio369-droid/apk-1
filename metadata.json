@@ -1,0 +1,6 @@
+{
+  "name": "Photo Viewer",
+  "description": "Native Android TV photo viewer with remote-friendly D-pad navigation, storage volume management, and high performance photo viewing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
